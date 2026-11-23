@@ -1,0 +1,3 @@
+C:/CardGame/build/CMakeFiles/GLProject.dir
+C:/CardGame/build/CMakeFiles/edit_cache.dir
+C:/CardGame/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/CardGame/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles\\GLProject.dir\\includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\GLProject.dir\\GLProject\\main.cpp.obj -c C:\\CardGame\\GLProject\\main.cpp",
+  "file": "C:/CardGame/GLProject/main.cpp",
+  "output": "CMakeFiles/GLProject.dir/GLProject/main.cpp.obj"
+}
+]

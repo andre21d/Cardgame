@@ -1,0 +1,34 @@
+# Blender 5.2.0 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl pendulum_bob_pbr
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd pendulum_bob_basecolor.jpg
+map_Pm pendulum_bob_metallic-pendulum_bob_roughness_metallic.jpg
+map_Pr pendulum_bob_metallic-pendulum_bob_roughness_roughness.jpg
+map_Bump -bm 1.000000 pendulum_bob_normal.jpg
+
+newmtl pendulum_body_pbr
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd pendulum_body_basecolor.jpg
+map_Pm pendulum_body_metallic-pendulum_body_roughness_metallic.jpg
+map_Pr pendulum_body_metallic-pendulum_body_roughness_roughness.jpg
+map_Bump -bm 1.000000 pendulum_body_normal.jpg

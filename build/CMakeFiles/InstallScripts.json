@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/CardGame/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
